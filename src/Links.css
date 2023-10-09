@@ -2,5 +2,12 @@
   display: flex;
   gap: 12px;
   margin: 10px auto;
-  width: 200px;
+  width: 300px;
+}
+
+.link-container a:link, .link-container a:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
 }

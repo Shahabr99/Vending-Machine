@@ -1,0 +1,14 @@
+.statement {
+  width: 450px;
+  margin: 10px auto;
+  text-align: center;
+  background-color: teal;
+  padding: 12px;
+  border-radius: 12px;
+}
+
+
+.statement a {
+  text-decoration: none;
+  color: #fff;
+}

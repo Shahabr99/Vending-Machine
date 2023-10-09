@@ -13,7 +13,7 @@ function VendingMachine() {
   return (
       <BrowserRouter>
         <Links />
-        <Routes>
+        <Routes >
           <Route path="/redbull" element={<Redbull />}/>
           <Route path="/doritos" element={<Doritos />}/>
           <Route path="/jerky" element={<Jerky />}/>
